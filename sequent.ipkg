@@ -1,0 +1,16 @@
+package sequent
+
+version    = 0.0.1
+brief      = "Initial project template from idringen"
+
+author     = zjhsdtc <zjhsdtc@gmail.com>
+license    = BSD3
+homepage   = https://github.com/githubuser/sequent
+sourceloc  = git@github.com:githubuser/sequent.git
+bugtracker = https://github.com/githubuser/sequent/issues
+
+sourcedir  = src
+modules    = Test
+tests      = Test.spec
+executable = sequent
+main       = Main
